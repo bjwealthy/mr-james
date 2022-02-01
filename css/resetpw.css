@@ -1,0 +1,25 @@
+p.loginpar{
+   
+position: inherit;
+}
+
+.login-instr{
+    text-align: right;
+}
+
+.cleared-input{
+  border-width:0px;
+  border:none;
+  outline:none;
+  width: 100vw;
+  
+}
+
+.cleared-input{
+    border: 0;
+}
+.teleph{
+  fill: green;
+}
+
+
